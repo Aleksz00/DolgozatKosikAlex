@@ -1,0 +1,7 @@
+C:\Users\b19KosikA\Desktop\DolgozatKosikAlex\DolgozatKosikAlex\bin\Debug\DolgozatKosikAlex.exe.config
+C:\Users\b19KosikA\Desktop\DolgozatKosikAlex\DolgozatKosikAlex\bin\Debug\DolgozatKosikAlex.exe
+C:\Users\b19KosikA\Desktop\DolgozatKosikAlex\DolgozatKosikAlex\bin\Debug\DolgozatKosikAlex.pdb
+C:\Users\b19KosikA\Desktop\DolgozatKosikAlex\DolgozatKosikAlex\obj\Debug\DolgozatKosikAlex.csproj.AssemblyReference.cache
+C:\Users\b19KosikA\Desktop\DolgozatKosikAlex\DolgozatKosikAlex\obj\Debug\DolgozatKosikAlex.csproj.CoreCompileInputs.cache
+C:\Users\b19KosikA\Desktop\DolgozatKosikAlex\DolgozatKosikAlex\obj\Debug\DolgozatKosikAlex.exe
+C:\Users\b19KosikA\Desktop\DolgozatKosikAlex\DolgozatKosikAlex\obj\Debug\DolgozatKosikAlex.pdb
